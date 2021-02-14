@@ -47,3 +47,5 @@ nota: tenga en cuenta que el respositorio por defecto se ejecutta con Chrome, es
 ## Verificar el reporte de pruebas
 
 Una vez ejecutadas las pruebas, puede localizar el reporte en target/site/serenity/index.html
+
+Refernecia: https://www.youtube.com/watch?v=VueLCYV2UYs&feature=youtu.be 
